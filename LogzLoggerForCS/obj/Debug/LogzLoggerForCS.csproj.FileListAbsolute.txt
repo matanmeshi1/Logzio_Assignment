@@ -1,0 +1,7 @@
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\obj\Debug\LogzLoggerForCS.csprojResolveAssemblyReference.cache
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\bin\Debug\LogzLoggerForCS.dll
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\bin\Debug\LogzLoggerForCS.pdb
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\obj\Debug\LogzLoggerForCS.dll
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\obj\Debug\LogzLoggerForCS.pdb
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matan\Documents\Visual Studio 2013\Projects\LogzLoggerForCS\LogzLoggerForCS\bin\Debug\Newtonsoft.Json.xml

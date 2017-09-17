@@ -1,0 +1,5 @@
+C:\Users\Matan\Desktop\logz\New Folder\Logz.io-master\LogzLoggerForCS\obj\Release\LogzLoggerForCS.csprojResolveAssemblyReference.cache
+C:\Users\Matan\Desktop\logz\New Folder\Logz.io-master\LogzLoggerForCS\bin\Release\LogzLoggerForCS.dll
+C:\Users\Matan\Desktop\logz\New Folder\Logz.io-master\LogzLoggerForCS\bin\Release\LogzLoggerForCS.pdb
+C:\Users\Matan\Desktop\logz\New Folder\Logz.io-master\LogzLoggerForCS\obj\Release\LogzLoggerForCS.dll
+C:\Users\Matan\Desktop\logz\New Folder\Logz.io-master\LogzLoggerForCS\obj\Release\LogzLoggerForCS.pdb
